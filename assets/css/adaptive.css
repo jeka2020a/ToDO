@@ -1,0 +1,15 @@
+@media (max-width: 1130px)
+{
+    .todo__flex {
+        flex-direction: column;
+        width: 100%;
+        max-width: 100%;
+    }
+    .todo__list , .todo__priority , .todo__table {
+        width: 100%;
+        max-width: 100%;
+        padding: 25px 5px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
